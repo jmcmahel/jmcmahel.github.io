@@ -20,14 +20,10 @@
 
 title: 
 email: mcmahelj@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >
   This site contains some of my thoughts and discoveries.
-  Themes:
-  - Technical how-to guides
-  - Music production
-  - Thoughts on philosophy and consciousness
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jmcmahel.github.io"
+url: https://jmcmahel.github.io
 github_username:  jmcmahel
 
 # Build settings

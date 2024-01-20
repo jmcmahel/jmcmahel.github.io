@@ -6,6 +6,6 @@ categories:
 ---
 ![hellofriend_1](https://github.com/jmcmahel/jmcmahel.github.io/blob/main/hellofriend_1.jpg)
 
-![hellofriend_2](https://github.com/jmcmahel/jmcmahel.github.io/blob/main/hellofriend_2.jpg
+![hellofriend_2](https://github.com/jmcmahel/jmcmahel.github.io/blob/main/hellofriend_2.jpg)
 
 ![hellofriend_3](https://github.com/jmcmahel/jmcmahel.github.io/blob/main/hellofriend_3.jpg)
